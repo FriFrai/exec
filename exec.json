@@ -1,11 +1,18 @@
 {
   "executors": [
     {
-      "image": "https://images.provenexpert.com/6c/55/2cb3d9c01caa9709b98263ede4c4/fluxus-roblox-android-executor_medium_1675254974.jpg",
-      "title": "Fluxus",
-      "description": "Fluxus Executor",
-      "download_link": "https://mega.nz/file/Ep9WmI7A#-46u-hpz7phGsdhll6InZLWxup_2s2GnBaBRF4Wng8E",
-      "created_at": "30 de setembro de 2024 Às 04:07"
+      "image": "https://www.thegods.lol/assets/robloxpng/solara.png",
+      "title": "Solara",
+      "description": "65% UNC Executor",
+      "download_link": "https://thegods.lol/assets/Bootstrapper_v2,05.exe",
+      "created_at": "27 de dezembro de 2024 Às 16:29"
+    },
+    {
+      "image": "https://www.thegods.lol/assets/robloxpng/swift.png",
+      "title": "Swift",
+      "description": "84% UNC Executor by bunni.lol",
+      "download_link": "https://cdn.discordapp.com/attachments/1277948596985139284/1322137939618037791/swift-bootstrapper2.exe?ex=676fc868&is=676e76e8&hm=bf28c7b651fa435baf89fa71d9070e6c9fc22c03f13a9100e5b61e5ab61ae6ed&",
+      "created_at": "27 de dezembro de 2024 Às 16:29"
     }
   ]
 }
